@@ -1,0 +1,58 @@
+E:\Working Others\RatingApp\RatingApp\bin\Debug\RatingApp.exe.config
+E:\Working Others\RatingApp\RatingApp\bin\Debug\RatingApp.exe
+E:\Working Others\RatingApp\RatingApp\bin\Debug\RatingApp.pdb
+E:\Working Others\RatingApp\RatingApp\obj\Debug\RatingApp.Form1.resources
+E:\Working Others\RatingApp\RatingApp\obj\Debug\RatingApp.Form2.resources
+E:\Working Others\RatingApp\RatingApp\obj\Debug\RatingApp.Form3.resources
+E:\Working Others\RatingApp\RatingApp\obj\Debug\RatingApp.Properties.Resources.resources
+E:\Working Others\RatingApp\RatingApp\obj\Debug\RatingApp.csproj.GenerateResource.cache
+E:\Working Others\RatingApp\RatingApp\obj\Debug\RatingApp.csproj.CoreCompileInputs.cache
+E:\Working Others\RatingApp\RatingApp\obj\Debug\RatingApp.exe
+E:\Working Others\RatingApp\RatingApp\obj\Debug\RatingApp.pdb
+C:\Users\User\Desktop\njr\RatingApp\bin\Debug\RatingApp.exe.config
+C:\Users\User\Desktop\njr\RatingApp\bin\Debug\RatingApp.exe
+C:\Users\User\Desktop\njr\RatingApp\bin\Debug\RatingApp.pdb
+C:\Users\User\Desktop\njr\RatingApp\obj\Debug\RatingApp.Form1.resources
+C:\Users\User\Desktop\njr\RatingApp\obj\Debug\RatingApp.Form2.resources
+C:\Users\User\Desktop\njr\RatingApp\obj\Debug\RatingApp.Form3.resources
+C:\Users\User\Desktop\njr\RatingApp\obj\Debug\RatingApp.Properties.Resources.resources
+C:\Users\User\Desktop\njr\RatingApp\obj\Debug\RatingApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\njr\RatingApp\obj\Debug\RatingApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\njr\RatingApp\obj\Debug\RatingApp.exe
+C:\Users\User\Desktop\njr\RatingApp\obj\Debug\RatingApp.pdb
+C:\Users\User\Desktop\njr\RatingApp\obj\Debug\RatingApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\njr2\RatingApp\bin\Debug\RatingApp.exe.config
+C:\Users\User\Desktop\njr2\RatingApp\bin\Debug\RatingApp.exe
+C:\Users\User\Desktop\njr2\RatingApp\bin\Debug\RatingApp.pdb
+C:\Users\User\Desktop\njr2\RatingApp\obj\Debug\RatingApp.Form1.resources
+C:\Users\User\Desktop\njr2\RatingApp\obj\Debug\RatingApp.Form2.resources
+C:\Users\User\Desktop\njr2\RatingApp\obj\Debug\RatingApp.Form3.resources
+C:\Users\User\Desktop\njr2\RatingApp\obj\Debug\RatingApp.Properties.Resources.resources
+C:\Users\User\Desktop\njr2\RatingApp\obj\Debug\RatingApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\njr2\RatingApp\obj\Debug\RatingApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\njr2\RatingApp\obj\Debug\RatingApp.exe
+C:\Users\User\Desktop\njr2\RatingApp\obj\Debug\RatingApp.pdb
+C:\Users\User\Desktop\Coursework\RatingApp\bin\Debug\RatingApp.exe.config
+C:\Users\User\Desktop\Coursework\RatingApp\bin\Debug\RatingApp.exe
+C:\Users\User\Desktop\Coursework\RatingApp\bin\Debug\RatingApp.pdb
+C:\Users\User\Desktop\Coursework\RatingApp\obj\Debug\RatingApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Coursework\RatingApp\obj\Debug\RatingApp.Form1.resources
+C:\Users\User\Desktop\Coursework\RatingApp\obj\Debug\RatingApp.Form2.resources
+C:\Users\User\Desktop\Coursework\RatingApp\obj\Debug\RatingApp.Form3.resources
+C:\Users\User\Desktop\Coursework\RatingApp\obj\Debug\RatingApp.Properties.Resources.resources
+C:\Users\User\Desktop\Coursework\RatingApp\obj\Debug\RatingApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Coursework\RatingApp\obj\Debug\RatingApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Coursework\RatingApp\obj\Debug\RatingApp.exe
+C:\Users\User\Desktop\Coursework\RatingApp\obj\Debug\RatingApp.pdb
+C:\Users\User\Desktop\course\RatingApp\bin\Debug\RatingApp.exe.config
+C:\Users\User\Desktop\course\RatingApp\bin\Debug\RatingApp.exe
+C:\Users\User\Desktop\course\RatingApp\bin\Debug\RatingApp.pdb
+C:\Users\User\Desktop\course\RatingApp\obj\Debug\RatingApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\course\RatingApp\obj\Debug\RatingApp.Form1.resources
+C:\Users\User\Desktop\course\RatingApp\obj\Debug\RatingApp.Form2.resources
+C:\Users\User\Desktop\course\RatingApp\obj\Debug\RatingApp.Form3.resources
+C:\Users\User\Desktop\course\RatingApp\obj\Debug\RatingApp.Properties.Resources.resources
+C:\Users\User\Desktop\course\RatingApp\obj\Debug\RatingApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\course\RatingApp\obj\Debug\RatingApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\course\RatingApp\obj\Debug\RatingApp.exe
+C:\Users\User\Desktop\course\RatingApp\obj\Debug\RatingApp.pdb
